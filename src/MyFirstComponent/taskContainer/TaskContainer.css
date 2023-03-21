@@ -1,0 +1,13 @@
+.container {
+    background-color: #F3F3FB;
+    border-radius: 50px;
+}
+
+.task-list {
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 700px;
+    padding: 50px;
+    
+}
