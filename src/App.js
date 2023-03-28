@@ -18,6 +18,33 @@ function App() {
       name : " 12 Create a Design System for Enum Workspace.",
       dueDate : new Date(2022, 5, 25)
     },
+
+    {
+      id : "T-1",
+      status : "Todo",
+      name : "Create a Design System for Enum Workspace.",
+      dueDate : new Date(2022, 5, 23)
+    },
+    {
+      id : "T-2",
+      status : "Complete",
+      name : " 12 Create a Design System for Enum Workspace.",
+      dueDate : new Date(2022, 5, 25)
+    },
+    {
+      id : "T-3",
+      status : "In progress",
+      name : " 14 Create a Design System for Enum Workspace.",
+      dueDate : new Date(2022, 5, 30)
+    }
+    ,
+    {
+      id : "T-3",
+      status : "In progress",
+      name : " 14 Create a Design System for Enum Workspace.",
+      dueDate : new Date(2022, 5, 30)
+    }
+    ,
     {
       id : "T-3",
       status : "In progress",
